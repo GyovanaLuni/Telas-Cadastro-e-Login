@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+    color: #323232;
+    border: none;
+}
+
+body {
+    padding-top: 5vh;
+    background-image: url('../img/pexels-anni-roenkae-2457284.jpg');
+    background-size: cover;
+    background-position-y: -150px;
+    
+}
+.bloco {
+    width: 850px;
+    padding: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(243, 222, 252, 0.836);
+    border-radius: 15px;
+    backdrop-filter: blur(7px);
+}
+
+h2 {
+    text-align: center;
+}
+h4 {
+    text-indent: 45px;
+  }
+  
